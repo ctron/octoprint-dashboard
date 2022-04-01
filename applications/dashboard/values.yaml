@@ -3,6 +3,7 @@ kafka:
   topic: ""
   username: ""
   password: ""
+  groupId: "drogue-twin"
 
 mongoDb:
   database: twin-db
