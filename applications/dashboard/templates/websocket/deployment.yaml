@@ -44,6 +44,10 @@ spec:
                 secretKeyRef:
                   name: doppelgaegner-config
                   key: drogue.application
+            - name: INDEX__TITLE
+              value: Octoprint Dashboard
+            - name: INDEX__COLS
+              value: "row-cols-1 row-cols-lg-2 g-4"
           ports:
             - containerPort: 8082
               name: web
