@@ -1,0 +1,9 @@
+apiVersion: v2
+name: ctron-octoprint-dashboard
+description: A PoC for an Octoprint dashboard using Drogue IoT Cloud
+
+type: application
+
+version: 0.1.0
+
+appVersion: "0.1.0"

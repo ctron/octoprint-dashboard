@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: ctron-octoprint
+  annotations:
+    openshift.io/display-name: ctron's Octoprint Dashboard
